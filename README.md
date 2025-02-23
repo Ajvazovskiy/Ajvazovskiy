@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ajvazovskiy
+- 👋 Hi, I’m Serhii
 - 👀 I’m interested in programming
 - 😄 everyone have a nice day!
 
